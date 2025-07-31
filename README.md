@@ -16,14 +16,12 @@ This project applies machine learning techniques to identify fraudulent credit c
 - Evaluation using F1-score and AUC
 
 ## 🏆 Best Model
-- **XGBoost** with F1-score: XX and AUC: XX
+- **Gradient Boosting model ** with F1-score: 91.1% and AUC: 94.7%
 
 ## 📌 How to Run
-1. Open `fraud_detection.ipynb`
+1. Open `fraud01.ipynb`
 2. Run all cells step-by-step
 
-## 📊 Output
-(you can add a screenshot here if you want)
 
 ---
 
