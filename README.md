@@ -25,10 +25,6 @@ Highest F1-Score (36.36%) - Best balance between precision and recall
 Reasonable precision (50%) - For every two warnings, one is correct
 Acceptable recall (28.57%) - Detects a quarter of frauds
 
-## 📌 How to Run
-1. Open `fraud01.ipynb`
-2. Run all cells step-by-step
-
 
 ---
 
