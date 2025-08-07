@@ -16,7 +16,14 @@ This project applies machine learning techniques to identify fraudulent credit c
 - Evaluation using F1-score and AUC
 
 ## 🏆 Best Model
-- **Gradient Boosting model ** with F1-score: 91.1% and AUC: 94.7%
+- **Random Forest model ** with F1-score:36.36% and AUC: 73.39%
+  
+- 🎯 Why is Random Forest the best?
+1️⃣ Balanced performance:
+
+Highest F1-Score (36.36%) - Best balance between precision and recall
+Reasonable precision (50%) - For every two warnings, one is correct
+Acceptable recall (28.57%) - Detects a quarter of frauds
 
 ## 📌 How to Run
 1. Open `fraud01.ipynb`
